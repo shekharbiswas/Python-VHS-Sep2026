@@ -1,7 +1,7 @@
 ## Python for Data Analysis
 
-
-
+Please note: **We are doing the missing sessoin tomorrow 2 pm.**
+( I will record it for all )
 
 ## Slides
 
