@@ -28,3 +28,5 @@ Requirements: laptop with zoom installed, extra monitor is a plus.
 
 ### Module 2
 
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT-ngou1cqhXE76cpDK8Dx8UtJonucNBU17_yIpkyD_Yxa8KUMcYSsU-pOLJqoBbxC6I81B9pdsn__L/pub?start=false&loop=false&delayms=3000)
+- [EDA_basics](https://colab.research.google.com/drive/1F1sOLJVeZHly4A-Wb2O-BLEXMWp78_BU#scrollTo=8WhsfuNUtEwr)
