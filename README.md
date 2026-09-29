@@ -31,3 +31,6 @@ Requirements: laptop with zoom installed, extra monitor is a plus.
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT-ngou1cqhXE76cpDK8Dx8UtJonucNBU17_yIpkyD_Yxa8KUMcYSsU-pOLJqoBbxC6I81B9pdsn__L/pub?start=false&loop=false&delayms=3000)
 - [EDA_basics](https://colab.research.google.com/drive/1F1sOLJVeZHly4A-Wb2O-BLEXMWp78_BU#scrollTo=8WhsfuNUtEwr)
 - [Record](https://drive.google.com/file/d/10OM_pu1bS_cjv0ppbn_f9ypXfMin0sNe/view?usp=sharing)
+
+- [Adv_EDA-Slides](https://docs.google.com/presentation/d/e/2PACX-1vStcpHwC1O8TOZtS0woYw-rAdl4KKnnFDCpbU1hzg2a1_PauGZ14PyvdldapDwyZQCS6WucU4raMjzL/pub?start=false&loop=false&delayms=3000)
+- [Colab_Adv_EDA](https://colab.research.google.com/drive/1qGrL71vXtUrJccGsrYgKxoYttGTzmMZO#scrollTo=qBO3dPyEV8IT)
