@@ -1,6 +1,6 @@
 ## Python for Data Analysis
 
-Please note: **We are doing the missing sessoin tomorrow 2 pm.**
+Please note: **We are doing the missing sessoin Friday 2 pm.**
 ( I will record it for all )
 
 Data analysis provides insights that enable informed decision-making. In today's complex business environment, decisions need to be based on facts and trends rather than only domain knowledge.
