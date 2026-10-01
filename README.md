@@ -34,3 +34,10 @@ Requirements: laptop with zoom installed, extra monitor is a plus.
 
 - [Adv_EDA-Slides](https://docs.google.com/presentation/d/e/2PACX-1vStcpHwC1O8TOZtS0woYw-rAdl4KKnnFDCpbU1hzg2a1_PauGZ14PyvdldapDwyZQCS6WucU4raMjzL/pub?start=false&loop=false&delayms=3000)
 - [Colab_Adv_EDA](https://colab.research.google.com/drive/1qGrL71vXtUrJccGsrYgKxoYttGTzmMZO#scrollTo=qBO3dPyEV8IT)
+
+## Module 3
+
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTMfbDF_wRRp93ePDOC82IKZMbVXtHNzPn9iTN01u3I6iY5lLjptzAdd-JfU8ZfaT4LQ0lUmJfdywP2/pub?start=false&loop=false&delayms=3000)
+- [Colab_Ecomm](https://colab.research.google.com/drive/1xawlUtrVu6Runi8MPTqib_BOWTlctBlo?usp=sharing)
+
+## Module 4
