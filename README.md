@@ -41,3 +41,6 @@ Requirements: laptop with zoom installed, extra monitor is a plus.
 - [Colab_Ecomm](https://colab.research.google.com/drive/1xawlUtrVu6Runi8MPTqib_BOWTlctBlo?usp=sharing)
 
 ## Module 4
+
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRM4osbvU_BOdfsgrqG_ljOSFVHTqttr6E1r_xIY8DKrFWJdfBHNN4yhfuYlK1H9UpBxqFnwIjVHYXs/pub?start=false&loop=false&delayms=3000)
+- [Colab_basic_db](https://colab.research.google.com/drive/1jvrKHINHwkuzJKyoyLpT_uCl2BRHGc0z?usp=sharing)
