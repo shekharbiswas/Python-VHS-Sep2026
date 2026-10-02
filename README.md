@@ -44,3 +44,5 @@ Requirements: laptop with zoom installed, extra monitor is a plus.
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRM4osbvU_BOdfsgrqG_ljOSFVHTqttr6E1r_xIY8DKrFWJdfBHNN4yhfuYlK1H9UpBxqFnwIjVHYXs/pub?start=false&loop=false&delayms=3000)
 - [Colab_basic_db](https://colab.research.google.com/drive/1jvrKHINHwkuzJKyoyLpT_uCl2BRHGc0z?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTx4dOSckxHlAHe3VfNCh9gxBgdS3Pjw58wzngTbDXATBV_uBuVpXuPo_7VI5A65X6KYgR2aUdhXXqo/pub?start=false&loop=false&delayms=3000)
+- [retail_dashboard](https://github.com/shekharbiswas/retail_dashboard)
